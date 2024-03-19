@@ -1,0 +1,14 @@
+body{
+    padding: 20px 100px;
+    font-family: "Protest Riot", sans-serif;
+}
+/* para llamar clases se utiliza un punto '.'
+y para llamar IDs se utiliza '#'
+*/
+.fotop{
+    border-radius: 10px;    
+}
+.salmon{
+    padding: 30px;
+    border-radius: 10px;
+}
